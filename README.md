@@ -1,6 +1,6 @@
 # Fine-tune Gemma Model with Keras using LoRA
 
-This Colab Notebook demonstrates how to fine-tune the Gemma language model using Keras and Low Rank Adaptation (LoRA) on the Databricks Dolly 15k dataset.
+This Jupyter Notebook demonstrates how to fine-tune the Gemma language model using Keras and Low Rank Adaptation (LoRA) on the Databricks Dolly 15k dataset.
 
 ## Table of Contents
 
